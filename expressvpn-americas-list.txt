@@ -1,0 +1,47 @@
+smart	USA - New York
+usmi2	USA - Miami - 2
+usny	USA - New York
+uswd	USA - Washington DC
+usnj1	USA - New Jersey - 1
+usta1	USA - Tampa - 1
+usda2	USA - Dallas - 2
+ussf	USA - San Francisco
+usch	USA - Chicago
+usda	USA - Dallas
+usmi	USA - Miami
+usla3	USA - Los Angeles - 3
+uswd2	USA - Washington DC - 2
+usla2	USA - Los Angeles - 2
+usnj3	USA - New Jersey - 3
+usse	USA - Seattle
+usde	USA - Denver
+ussl	USA - Salt Lake City
+uskc	USA - Kansas City
+usph	USA - Phoenix
+usla1	USA - Los Angeles - 1
+usvi	USA - Virginia
+usny2	USA - New York - 2
+usnj2	USA - New Jersey - 2
+usho	USA - Hollywood
+usla	USA - Los Angeles
+ussj	USA - San Jose
+usat	USA - Atlanta
+ussf	USA - San Francisco via HK
+ussf2	USA - San Francisco - 2
+br2	Brazil - 2
+br1	Brazil
+cato	Canada - Toronto
+cato2	Canada - Toronto - 2
+cava	Canada - Vancouver
+camo	Canada - Montreal
+mx1	Mexico
+pa1	Panama
+cl1	Chile
+ar1	Argentina
+cr1	Costa Rica
+co1	Colombia
+ve1	Venezuela
+ec1	Ecuador
+gt1	Guatemala
+pe1	Peru
+uy1	Uruguay
